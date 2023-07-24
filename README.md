@@ -1,9 +1,17 @@
-# A-full-stack-web-application
-A web application similar to a social media
+# MERN Stack Boilerplate
 
-This was a course project, were we used tech stacks: CSS/HTML, React, MongoDB, Express, nodeJs.
+## Installations
 
-The Screen-shots of my web application can be viewd in ScreenShot folder.
 
-The codes for the same are in Code's folder
+# GREDDIIT
+
+```  social news aggregation, content rating, and discussion website. Registered users submit content to the site such as texts which are then voted up or down by other members ```
+
+## used 
+1. MongoDB for Database (Non Relational, Different from MySQl)
+2. Backend Framework using Express JS implementing REST API
+3. React JS for Frontend
+4. Node JS for Backend
+
+<br>
 
