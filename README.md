@@ -13,4 +13,19 @@
 3. React JS for Frontend
 4. Node JS for Backend
 
-LogIn Page <img src="https://iiitaphyd-my.sharepoint.com/:i:/g/personal/arya_marda_students_iiit_ac_in/EUOURNIxvM1JntkRuyE_v3MBaEyVv0_5HzKiktDA3W2SpQ?e=5sHXoc" width="50">
+![Sign-up](https://github.com/Arya-Ayra/A-full-stack-web-application/blob/main/Images/Sign-up.png)
+
+![LogIn](https://github.com/Arya-Ayra/A-full-stack-web-application/blob/main/Images/LogIn.png)
+
+![Profile](https://github.com/Arya-Ayra/A-full-stack-web-application/blob/main/Images/Profile.png)
+
+![Followers](https://github.com/Arya-Ayra/A-full-stack-web-application/blob/main/Images/Followers.png)
+
+![Followers_post_page](https://github.com/Arya-Ayra/A-full-stack-web-application/blob/main/Images/Followers_post_page.png)
+
+![All Public Posts](https://github.com/Arya-Ayra/A-full-stack-web-application/blob/main/Images/All%20public%20posts.png)
+
+![Moderator_page_followers](https://github.com/Arya-Ayra/A-full-stack-web-application/blob/main/Images/Moderator_page_followers.png)
+
+![YourPost](https://github.com/Arya-Ayra/A-full-stack-web-application/blob/main/Images/Your%20Posts.png)
+
